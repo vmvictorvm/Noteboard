@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import TextNote from './TextNote';
 import './index.css';
 
 ReactDOM.render(
-  <App />,
+  <TextNote />,
   document.getElementById('root')
 );
