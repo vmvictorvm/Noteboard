@@ -8,9 +8,24 @@
   font-family: 'Shadows Into Light', cursive;
   font-size: 30px;
   padding: 10px;
+  position: relative;
+  top:50px;
+}
+
+#erBtn {
+  margin-top: 100px;
 }
 
 body {
   background-image: url("bulletinBoardBgr.jpeg");
+}
 
+
+#addBtn {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 20px;
+  font-weight: bold;
 }
